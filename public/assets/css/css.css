@@ -1,0 +1,49 @@
+.bg-yellow {
+   background-color: rgba(255, 196, 4, 1);
+}
+
+.bg-green {
+   background-color: rgba(54, 192, 3, 1);
+}
+
+.bg-gray-1 {
+   background-color: rgba(236, 236, 236, 1);
+}
+
+.bg-gray-2 {
+   background-color: rgba(217, 217, 217, 1);
+}
+
+.btn-green {
+   background-color: rgba(54, 192, 3, 1);
+   color: white;
+}
+
+.btn-green:hover {
+   background-color: rgb(44, 155, 4);
+   color: white;
+}
+
+.btn-yellow {
+   background-color: rgba(255, 196, 4, 1);
+}
+
+.btn-yellow:hover {
+   background-color: rgb(204, 157, 3);
+}
+
+.btn-gray {
+   background-color: rgb(173, 173, 173)
+}
+
+.btn-gray:hover {
+   background-color: rgb(112, 112, 112)
+}
+
+.border-z {
+   border-radius: 0 20px 0 20px;
+}
+
+.border-o {
+   border-radius: 20px;
+}
